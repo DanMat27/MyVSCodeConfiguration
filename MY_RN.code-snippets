@@ -1,0 +1,164 @@
+/*
+* File: SnippetsReactNative.code-snippets
+* Author: Daniel Mateo Moreno
+* Github: https://github.com/DanMat27
+* Description: Declaration of my React Native code snippets for quick programming.
+*/
+
+{
+	/* *************************** MY RN GENERAL SNIPPETS ************************************ */
+	"React Native Console Log": {
+		"scope": "javascript, typescript",
+		"prefix": "_myrn_g_log",
+		"body": [
+			"console.log($1);",
+		],
+		"description": "Writes the usage of a js console log."
+	},
+	"React Native Single Import Declaration": {
+		"scope": "javascript, typescript",
+		"prefix": "_myrn_g_imp",
+		"body": [
+			"import $2 from '$1';",
+		],
+		"description": "Declares an import of a single/complete object from another module/file."
+	},
+	"React Native Keys Import Declaration": {
+		"scope": "javascript, typescript",
+		"prefix": "_myrn_g_imps",
+		"body": [
+			"import { $0 } from '$1';",
+		],
+		"description": "Declares an import of a composed object from another module/file."
+	},
+	"React Native Try Catch": {
+		"scope": "javascript, typescript",
+		"prefix": "_myrn_g_tryc",
+		"body": [
+			"try {",
+			"\t$0",
+			"\t// action();",
+			"} catch (error) {",	
+			"\tconsole.log(error);",
+			"\t// actionError();",
+			"}",
+		],
+		"description": "Writes the structure of my personal try&catch."
+	},
+	"React Native Use State": {
+		"scope": "javascript, typescript",
+		"prefix": "_myrn_g_state",
+		"body": [
+			"const [$1, $2] = useState($3);",
+		],
+		"description": "Defines the useState of a new state in the current component."
+	},
+
+
+	/* *************************** MY RN FRONT DESIGN SNIPPETS ************************************ */
+	"React Native Empty Design Tags": {
+		"scope": "javascript, typescript",
+		"prefix": "_myrn_d_etags",
+		"body": [
+			"<>",
+			"$0",
+			"<>",
+		],
+		"description": "Creates an empty tags object."
+	},
+	"React Native View Design Tags": {
+		"scope": "javascript, typescript",
+		"prefix": "_rn_d_vtags",
+		"body": [
+			"<View>",
+			"$0",
+			"</View>",
+		],
+		"description": "Creates a View object with tags."
+	},
+	"React Native Text Design Tags": {
+		"scope": "javascript, typescript",
+		"prefix": "_myrn_d_ttags",
+		"body": [
+			"<Text>",
+			"$0",
+			"</Text>",
+		],
+		"description": "Creates a Text object with tags."
+	},
+	"React Native TouchableWithoutFeedback Design Tags": {
+		"scope": "javascript, typescript",
+		"prefix": "_myrn_d_touchwf",
+		"body": [
+			"<TouchableWithoutFeedback",
+			"\tonPress={() => { console.log('action when pressed'); }}",
+			">",
+			"\t$0",
+			"</TouchableWithoutFeedback>"
+		],
+		"description": "Creates a TouchableWithoutFeedback object with tags."
+	},
+	"React Native TouchableOpacity Design Tags": {
+		"scope": "javascript, typescript",
+		"prefix": "_myrn_d_touchop",
+		"body": [
+			"<TouchableOpacity",
+			"\tonPress={() => { console.log('action when pressed'); }}",
+			">",
+			"\t$0",
+			"</TouchableOpacity>"
+		],
+		"description": "Creates a TouchableOpacity object with tags."
+	},
+	"React Native Vertical FlatList Design Tags": {
+		"scope": "javascript, typescript",
+		"prefix": "_myrn_d_flatlist",
+		"body": [
+			"<FlatList",
+			"\tstyle={{ width: '100%', height: '100%' }}",
+			"\tdata={$1} // Here goes the data list",
+			"\trefreshControl={",
+				"\t\t<RefreshControl",
+					"\t\t\trefreshing={false} // Here use a control state",
+					"\t\t\tonRefresh={() => { console.log('action on refresh'); }}",
+					"\t\t\tcolors={['#000']}",
+				"\t\t/>",
+			"\t}",
+			"\tonEndReachedThreshold={0.05} // Offset from end of list",
+			"\tonEndReached={() => { console.log('action end reached'); }}",
+			"\trenderItem={({ item, index }) => {",
+			"\t\t// Here add the logic needed",
+			"\t\treturn (",
+			"\t\t\t<>",
+			"\t\t\t\t",
+			"\t\t\t</>",
+			"\t\t);",
+			"\t}}",
+            "\tkeyExtractor={(item, index) => index.toString()} // Can use the id of the item too",
+			"/>"
+		],
+		"description": "Creates a vertical FlatList object with render. Comes with control of the end and the refresh."
+	},
+
+
+	/* *************************** MY RN CONTEXT SNIPPETS ************************************ */
+	"React Native Use Context Declaration": {
+		"scope": "javascript, typescript",
+		"prefix": "_myrn_ctxt_usecxt",
+		"body": [
+			"const { $1, $2 } = useContext($3);",
+		],
+		"description": "Defines the useContext of a stored object in the component."
+	},
+
+
+	/* *************************** MY RN NAVIGATION SNIPPETS ************************************ */
+	"React Native Reset Stack Navigation": {
+		"scope": "javascript, typescript",
+		"prefix": "_myrn_nav_reset",
+		"body": [
+			"navigation.reset({ index: 0, routes: [{ name: '$1' }] });",
+		],
+		"description": "Calls the navigation object and resets the stack screen."
+	},
+}
