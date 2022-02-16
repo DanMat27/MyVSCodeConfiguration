@@ -1,5 +1,5 @@
 /*
-* File: MY_RN.code-snippets
+* File: SnippetsReactNative.code-snippets
 * Author: Daniel Mateo Moreno
 * Github: https://github.com/DanMat27
 * Description: Declaration of my React Native code snippets for quick programming.
@@ -61,7 +61,7 @@
 		"prefix": "_myrn_d_etags",
 		"body": [
 			"<>",
-			"$0",
+			"\t$0",
 			"<>",
 		],
 		"description": "Creates an empty tags object."
@@ -71,7 +71,7 @@
 		"prefix": "_rn_d_vtags",
 		"body": [
 			"<View>",
-			"$0",
+			"\t$0",
 			"</View>",
 		],
 		"description": "Creates a View object with tags."
@@ -81,7 +81,7 @@
 		"prefix": "_myrn_d_ttags",
 		"body": [
 			"<Text>",
-			"$0",
+			"\t$0",
 			"</Text>",
 		],
 		"description": "Creates a Text object with tags."
