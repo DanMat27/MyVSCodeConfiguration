@@ -13,7 +13,7 @@
 > #### These snippets helps to write code faster typing abbreviations that autocompletes predefined code.
 > #### My custom code snippets files:
 > 1. `MY_RN.code-snippets`: _React Native code snippets_
-> #### No extension needed for this, just add configuration to VSCode.
+> #### No extension needed for this, just add some configuration to VSCode.
 ---
 - ## Bracket Pair Colorizer
 > #### Sets the color of the brackets inside the code so it's easier to see the pairs and nesting. Recommended for JS, TS, C...
