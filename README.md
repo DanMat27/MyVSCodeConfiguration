@@ -4,8 +4,9 @@
 | Tool | Extension | Coding | Styling |
 | :--- | :---: | :---: | :---: |
 | Code Snippets | No | X |  |
-| Indent Rainbow | Yes | X | X |
-| Better Comments | Yes | X | X |
+| Bracket Pair Colorizer | Yes |  | X |
+| Indent Rainbow | Yes |  | X |
+| Better Comments | Yes |  | X |
 | VSCode-icons | Yes |  | X |
 | IntelliCode | Yes | X |  |
 | Peacock | Yes |  | X |
