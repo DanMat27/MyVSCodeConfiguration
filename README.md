@@ -1,6 +1,6 @@
 # __MyVSCodeConfiguration__
 #### This project contains my configuration of VSCode, using extensions and my own code snippets.
-#### Below this i list all my VSCode tools and settings:
+#### Below this i list all my VSCode tools:
 | Tool | Extension | Coding | Styling |
 | :--- | :---: | :---: | :---: |
 | Code Snippets | No | X |  |
@@ -9,6 +9,8 @@
 | VSCode-icons | Yes |  | X |
 | IntelliCode | Yes | X |  |
 | Peacock | Yes |  | X |
+| Copilot | Yes | X |  |
+#### _I don't include the well known extensions and packs for code languages support (Python, C, C#, C++, JavaScript, TypeScript, CSS, HTML, JSON, SQL...) and environments (React, Jupyter, Django, ...) and specified language code snippets packs._
 ---
 ---
 - ## My Code Snippets
@@ -78,6 +80,17 @@
 >> ###### Versión: 4.0.1
 >> ###### Editor: John Papa
 >> ##### Vínculo de VS Marketplace: https://marketplace.visualstudio.com/items?itemName=johnpapa.vscode-peacock
+---
+- ## Github Copilot
+> #### AI assistant for coding. This machine learning model (trained with github repositories) tells code suggestions (built functions, variables or comments) depending on your comments or the current line you are writing. This is a recent AI model, so it's still improving by getting information of your projects code (so if you don't want to share your private code with Github, don't use this) and your usage of its suggestions.
+> #### For using Github Copilot, you need first to submit a inscription. After some months you will get the free access.
+> #### __Extension:__
+>> ##### Nombre: GitHub Copilot
+>> ##### ID: GitHub.copilot
+>> ###### Descripción: Your AI pair programmer
+>> ###### Versión: 1.12.5517
+>> ###### Editor: GitHub
+>> ##### Vínculo de VS Marketplace: https://marketplace.visualstudio.com/items?itemName=GitHub.copilot
 ---
 ![GitHub all releases](https://img.shields.io/github/downloads/DanMat27/MyVSCodeConfiguration/total)
 ![GitHub language count](https://img.shields.io/github/languages/count/DanMat27/MyVSCodeConfiguration)
