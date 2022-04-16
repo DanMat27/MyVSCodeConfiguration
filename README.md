@@ -1,5 +1,5 @@
 # __MyVSCodeConfiguration__
-#### This project contains my configuration of VSCode, using extensions and my own code snippets.
+#### This project contains my configuration of VSCode, with some of my favorite extensions and my own code snippets.
 #### Below this i list all my VSCode tools:
 | Tool | Extension | Coding | Styling |
 | :--- | :---: | :---: | :---: |
