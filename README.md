@@ -19,6 +19,12 @@
 > #### My custom code snippets files:
 > 1. `MY_RN.code-snippets`: _React Native code snippets_
 > #### No extension needed for this, just add some configuration to VSCode.
+><html>
+>  <p align="center">
+>    <img src="/images/snippets.png">
+>  </p>
+></html>
+
 ---
 - ## Bracket Pair Colorizer
 > #### Sets the color of the brackets inside the code so it's easier to see the pairs and nesting. Recommended for JS, TS, C...
@@ -28,6 +34,12 @@
 >> ###### Descripción: A customizable extension for colorizing matching brackets
 >> ###### Versión: 1.0.62
 >> ###### Editor: CoenraadS
+><html>
+>  <p align="center">
+>    <img src="/images/BracketPairColorizer.png">
+>  </p>
+></html>
+
 ---
 - ## Indent Rainbow
 > #### Sets the color of the indentations inside the code. Recommended for Python.
@@ -38,6 +50,12 @@
 >> ###### Versión: 8.3.1
 >> ###### Editor: oderwat
 >> ##### Vínculo de VS Marketplace: https://marketplace.visualstudio.com/items?itemName=oderwat.indent-rainbow
+><html>
+>  <p align="center">
+>    <img src="/images/IndentRainbow.png">
+>  </p>
+></html>
+
 ---
 - ## Better Comments
 > #### Can set a better visual style to the comments inside the code so it's easier to understand them.
@@ -48,6 +66,12 @@
 >> ###### Versión: 3.0.0
 >> ###### Editor: Aaron Bond
 >> ##### Vínculo de VS Marketplace: https://marketplace.visualstudio.com/items?itemName=aaron-bond.better-comments
+><html>
+>  <p align="center">
+>    <img src="/images/BetterComments.png">
+>  </p>
+></html>
+
 ---
 - ## VSCode-icons
 > #### Sets the files and folders of VSCode with a better visual icon.
@@ -61,6 +85,12 @@
 >> ###### Versión: 11.10.0
 >> ###### Editor: VSCode Icons Team
 >> ##### Vínculo de VS Marketplace: https://marketplace.visualstudio.com/items?itemName=vscode-icons-team.vscode-icons
+><html>
+>  <p align="center">
+>    <img src="/images/VSCode-icons.png">
+>  </p>
+></html>
+
 ---
 - ## IntelliCode
 > #### AI assistant for coding faster. Supports JS, TS, Python and Java.
@@ -71,6 +101,12 @@
 >> ###### Versión: 1.2.19
 >> ###### Editor: Microsoft
 >> ##### Vínculo de VS Marketplace: https://marketplace.visualstudio.com/items?itemName=VisualStudioExptTeam.vscodeintellicode
+><html>
+>  <p align="center">
+>   <img src="/images/Intellicode.png">
+>  </p>
+></html>
+
 ---
 - ## Peacock
 > #### Sets the color of the VSCode window so it's easier to identify different opened Visual windows (different projects).
@@ -81,6 +117,12 @@
 >> ###### Versión: 4.0.1
 >> ###### Editor: John Papa
 >> ##### Vínculo de VS Marketplace: https://marketplace.visualstudio.com/items?itemName=johnpapa.vscode-peacock
+><html>
+>  <p align="center">
+>    <img src="/images/Peacock.png">
+>  </p>
+></html>
+
 ---
 - ## Github Copilot
 > #### AI assistant for coding. This machine learning model (trained with github repositories) tells code suggestions (built functions, variables or comments) depending on your comments or the current line you are writing. This is a recent AI model, so it's still improving by getting information of your projects code (so if you don't want to share your private code with Github, don't use this) and your usage of its suggestions.
@@ -92,6 +134,12 @@
 >> ###### Versión: 1.12.5517
 >> ###### Editor: GitHub
 >> ##### Vínculo de VS Marketplace: https://marketplace.visualstudio.com/items?itemName=GitHub.copilot
+><html>
+>  <p align="center">
+>    <img src="/images/Copilot.png">
+>  </p>
+></html>
+
 ---
 ![GitHub all releases](https://img.shields.io/github/downloads/DanMat27/MyVSCodeConfiguration/total)
 ![GitHub language count](https://img.shields.io/github/languages/count/DanMat27/MyVSCodeConfiguration)
