@@ -48,7 +48,7 @@
 >> ###### Editor: Aaron Bond
 >> ##### Vínculo de VS Marketplace: https://marketplace.visualstudio.com/items?itemName=aaron-bond.better-comments
 ---
-- ## My VSCode-icons
+- ## VSCode-icons
 > #### Sets the files and folders of VSCode with a better visual icon.
 > #### Also, i set my custom vscode-icons:
 > 1. `settings_vscode-icons.json`: _vscode-icons settings file for custom icons_
