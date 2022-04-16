@@ -7,6 +7,8 @@
 | Indent Rainbow | Yes | X | X |
 | Better Comments | Yes | X | X |
 | VSCode-icons | Yes |  | X |
+| IntelliCode | Yes | X |  |
+| Peacock | Yes |  | X |
 ---
 ---
 - ## My Code Snippets
@@ -20,18 +22,18 @@
 > #### __Extension:__
 >> ##### Nombre: Bracket Pair Colorizer
 >> ##### ID: CoenraadS.bracket-pair-colorizer
->> ##### Descripción: A customizable extension for colorizing matching brackets
->> ##### Versión: 1.0.62
->> ##### Editor: CoenraadS
+>> ###### Descripción: A customizable extension for colorizing matching brackets
+>> ###### Versión: 1.0.62
+>> ###### Editor: CoenraadS
 ---
 - ## Indent Rainbow
 > #### Sets the color of the indentations inside the code. Recommended for Python.
 > #### __Extension:__
 >> ##### Nombre: indent-rainbow
 >> ##### ID: oderwat.indent-rainbow
->> ##### Descripción: Makes indentation easier to read
->> ##### Versión: 8.3.1
->> ##### Editor: oderwat
+>> ###### Descripción: Makes indentation easier to read
+>> ###### Versión: 8.3.1
+>> ###### Editor: oderwat
 >> ##### Vínculo de VS Marketplace: https://marketplace.visualstudio.com/items?itemName=oderwat.indent-rainbow
 ---
 - ## Better Comments
@@ -39,9 +41,9 @@
 > #### __Extension:__
 >> ##### Nombre: Better Comments
 >> ##### ID: aaron-bond.better-comments
->> ##### Descripción: Improve your code commenting by annotating with alert, informational, TODOs, and more!
->> ##### Versión: 3.0.0
->> ##### Editor: Aaron Bond
+>> ###### Descripción: Improve your code commenting by annotating with alert, informational, TODOs, and more!
+>> ###### Versión: 3.0.0
+>> ###### Editor: Aaron Bond
 >> ##### Vínculo de VS Marketplace: https://marketplace.visualstudio.com/items?itemName=aaron-bond.better-comments
 ---
 - ## My VSCode-icons
@@ -56,6 +58,26 @@
 >> ###### Versión: 11.10.0
 >> ###### Editor: VSCode Icons Team
 >> ##### Vínculo de VS Marketplace: https://marketplace.visualstudio.com/items?itemName=vscode-icons-team.vscode-icons
+---
+- ## IntelliCode
+> #### AI assistant for coding faster. Supports JS, TS, Python and Java.
+> #### __Extension:__
+>> ##### Nombre: IntelliCode
+>> ##### ID: VisualStudioExptTeam.vscodeintellicode
+>> ###### Descripción: AI-assisted development
+>> ###### Versión: 1.2.19
+>> ###### Editor: Microsoft
+>> ##### Vínculo de VS Marketplace: https://marketplace.visualstudio.com/items?itemName=VisualStudioExptTeam.vscodeintellicode
+---
+- ## Peacock
+> #### Sets the color of the VSCode window so it's easier to identify different opened Visual windows (different projects).
+> #### __Extension:__
+>> ##### Nombre: Peacock
+>> ##### ID: johnpapa.vscode-peacock
+>> ###### Descripción: Subtly change the workspace color of your workspace. Ideal when you have multiple VS Code instances and you want to quickly identify which is which.
+>> ###### Versión: 4.0.1
+>> ###### Editor: John Papa
+>> ##### Vínculo de VS Marketplace: https://marketplace.visualstudio.com/items?itemName=johnpapa.vscode-peacock
 ---
 ![GitHub all releases](https://img.shields.io/github/downloads/DanMat27/MyVSCodeConfiguration/total)
 ![GitHub language count](https://img.shields.io/github/languages/count/DanMat27/MyVSCodeConfiguration)
