@@ -1,0 +1,155 @@
+{
+    "workbench.colorTheme": "Default Dark+",
+    "editor.suggestSelection": "first",
+    "vsintellicode.modify.editor.suggestSelection": "automaticallyOverrodeDefaultValue",
+    "bracketPairColorizer.depreciation-notice": false,
+    "editor.inlineSuggest.enabled": true,
+    "window.zoomLevel": 1,
+    "workbench.iconTheme": "vscode-icons",
+    "vsicons.associations.files": [
+        {
+            "icon": "reactjs",
+            "extensions": [
+                "js"
+            ],
+            "format": "svg"
+        },
+        {
+            "icon": "graphql",
+            "extensions": [],
+            "format": "svg",
+            "filename": true,
+            "filenamesGlob": [
+                "schema",
+                "mutations",
+                "queries"
+            ],
+            "extensionsGlob": [
+                "js",
+                "ts"
+            ]
+        },
+        {
+            "icon": "font",
+            "extensions": [],
+            "format": "svg",
+            "filename": true,
+            "filenamesGlob": [
+                "fonts",
+            ],
+            "extensionsGlob": [
+                "js",
+                "ts",
+                "py"
+            ]
+        },
+        {
+            "icon": "my_apollo_server_icon",
+            "extensions": [],
+            "format": "svg",
+            "filename": true,
+            "filenamesGlob": [
+                "apollo",
+                "apolloFetch"
+            ],
+            "extensionsGlob": [
+                "js",
+                "ts"
+            ]
+        },
+        {
+            "icon": "my_navigator_icon",
+            "extensions": [],
+            "format": "png",
+            "filename": true,
+            "filenamesGlob": [
+                "rootNavigation",
+                "navigator",
+                "navigation"
+            ],
+            "extensionsGlob": [
+                "js",
+                "ts",
+                "py"
+            ]
+        },
+        {
+            "icon": "my_notification_icon",
+            "extensions": [],
+            "format": "png",
+            "filename": true,
+            "filenamesGlob": [
+                "notifications",
+                "pushNotifications"
+            ],
+            "extensionsGlob": [
+                "js",
+                "ts",
+                "py"
+            ]
+        },
+        {
+            "icon": "my_security_icon",
+            "extensions": [],
+            "format": "png",
+            "filename": true,
+            "filenamesGlob": [
+                "security",
+                "auth",
+                "authentication",
+                "protection"
+            ],
+            "extensionsGlob": [
+                "js",
+                "ts",
+                "py"
+            ]
+        },
+        {
+            "icon": "my_palette_icon",
+            "extensions": [],
+            "format": "png",
+            "filename": true,
+            "filenamesGlob": [
+                "colors",
+                "backgrounds",
+                "frames"
+            ],
+            "extensionsGlob": [
+                "js",
+                "ts",
+                "py"
+            ]
+        },
+    ],
+    "vsicons.associations.folders": [
+        {
+            "icon": "config",
+            "extensions": [
+                "types"
+            ],
+            "format": "svg"
+        },
+        {
+            "icon": "images",
+            "extensions": [
+                "imgs"
+            ],
+            "format": "svg"
+        },
+        {
+            "icon": "redux",
+            "extensions": [
+                "context"
+            ],
+            "format": "svg"
+        },
+        {
+            "icon": "my_types_icon",
+            "extensions": [
+                "types"
+            ],
+            "format": "png"
+        },
+    ]
+}
