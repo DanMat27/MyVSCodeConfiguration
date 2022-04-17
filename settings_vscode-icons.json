@@ -7,6 +7,7 @@
     "window.zoomLevel": 1,
     "workbench.iconTheme": "vscode-icons",
     "vsicons.associations.files": [
+
         {
             "icon": "reactjs",
             "extensions": [
@@ -22,7 +23,9 @@
             "filenamesGlob": [
                 "schema",
                 "mutations",
-                "queries"
+                "queries",
+                "resolvers",
+                "graphql"
             ],
             "extensionsGlob": [
                 "js",
