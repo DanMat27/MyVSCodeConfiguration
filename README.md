@@ -1,16 +1,19 @@
 # __MyVSCodeConfiguration__
 #### This project contains my configuration of VSCode, with some of my favorite extensions and my own code snippets.
 #### Below this i list all my VSCode tools:
-| Tool | Extension | Coding | Styling |
-| :--- | :---: | :---: | :---: |
-| Code Snippets | No | X |  |
-| Bracket Pair Colorizer | Yes |  | X |
-| Indent Rainbow | Yes |  | X |
-| Better Comments | Yes |  | X |
-| VSCode-icons | Yes |  | X |
-| IntelliCode | Yes | X |  |
-| Peacock | Yes |  | X |
-| Copilot | Yes | X |  |
+| Tool | Extension | Coding | Styling | Debugging |
+| :--- | :---: | :---: | :---: | :---: |
+| Code Snippets | No | X |  |  |
+| Bracket Pair Colorizer | Yes |  | X |  |
+| Indent Rainbow | Yes |  | X |  |
+| Better Comments | Yes |  | X |  |
+| VSCode-icons | Yes |  | X |  |
+| IntelliCode | Yes | X |  |  |
+| Peacock | Yes |  | X |  |
+| Copilot | Yes | X |  |  |
+| Error Lens | Yes |  |  | X |
+| Import Cost | Yes |  |  | X |
+| Code Spell Checker | Yes |  |  | X |
 #### _I don't include the well known extensions and packs for code languages support (Python, C, C#, C++, JavaScript, TypeScript, CSS, HTML, JSON, SQL...) and environments (React, Jupyter, Django, ...) and specified language code snippets packs._
 ---
 ---
@@ -137,6 +140,54 @@
 ><html>
 >  <p align="center">
 >    <img src="/images/Copilot.png">
+>  </p>
+></html>
+
+---
+- ## Error Lens
+> #### Shows the programmer with a better appearance (highlighted the full line) the error detected in the code, explained at the end of it.
+> #### __Extension:__
+>> ##### Nombre: Error Lens
+>> ##### ID: usernamehw.errorlens
+>> ##### Descripción: Improve highlighting of errors, warnings and other language diagnostics.
+>> ##### Versión: 3.6.0
+>> ##### Editor: Alexander
+>> ##### Vínculo de VS Marketplace: https://marketplace.visualstudio.com/items?itemName=usernamehw.errorlens
+><html>
+>  <p align="center">
+>    <img src="/images/ErrorLens.png">
+>  </p>
+></html>
+
+---
+- ## Import Cost
+> #### Shows the programmer the weight of imports of some code libraries in the module.
+> #### __Extension:__
+>> ##### Nombre: Import Cost
+>> ##### ID: wix.vscode-import-cost
+>> ##### Descripción: Display import/require package size in the editor
+>> ##### Versión: 3.3.0
+>> ##### Editor: Wix
+>> ##### Vínculo de VS Marketplace: https://marketplace.visualstudio.com/items?itemName=wix.vscode-import-cost
+><html>
+>  <p align="center">
+>    <img src="/images/ImportCost.png">
+>  </p>
+></html>
+
+---
+- ## Code Spell Checker
+> #### Checks the words written in the code to detect grammatical errors (in the selected languages).
+> #### __Extension:__
+>> ##### Nombre: Code Spell Checker
+>> ##### ID: streetsidesoftware.code-spell-checker
+>> ##### Descripción: Spelling checker for source code
+>> ##### Versión: 2.5.4
+>> ##### Editor: Street Side Software
+>> ##### Vínculo de VS Marketplace: https://marketplace.visualstudio.com/items?itemName=streetsidesoftware.code-spell-checker
+><html>
+>  <p align="center">
+>    <img src="/images/CodeSpellChecker.png">
 >  </p>
 ></html>
 
