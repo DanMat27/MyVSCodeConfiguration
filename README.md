@@ -155,7 +155,7 @@
 >> ##### Vínculo de VS Marketplace: https://marketplace.visualstudio.com/items?itemName=usernamehw.errorlens
 ><html>
 >  <p align="center">
->    <img src="/images/ErrorLens.png">
+>    <img src="/images/ErroLens.png">
 >  </p>
 ></html>
 
